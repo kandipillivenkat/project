@@ -1,0 +1,35 @@
+.main{
+border: 2px solid black;
+display: flex;
+flex-direction: row;
+}
+.left{
+  margin: 2%;
+  border: 2px solid blue;
+  padding: 1%;
+  margin: 1%;
+  width: 10%;
+}
+.left img{
+  width: 80%;
+  display: block;
+  border: 2px solid green;
+  border-radius: 40%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.right{
+  margin: 2%;
+  border: 1px solid black;
+  padding: 1%;
+  margin: 1%;
+  width: 10%;
+}
+.right img{
+  width: 80%;
+  display: block;
+  border: 2px solid orange;
+  border-radius: 405;
+  margin-left: auto;
+  margin-right: auto;
+}
